@@ -1,0 +1,23 @@
+{
+  "name": "liri-bot",
+  "version": "1.0.0",
+  "description": "lirit bot week 11 assignment",
+  "main": "key.js",
+  "scripts": {
+    "test": " 1 2 3 "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skurtz92/liri-bot.git"
+  },
+  "keywords": [
+    "liri",
+    "bot"
+  ],
+  "author": "Sydney E Kurtz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skurtz92/liri-bot/issues"
+  },
+  "homepage": "https://github.com/skurtz92/liri-bot#readme"
+}
